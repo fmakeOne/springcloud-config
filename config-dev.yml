@@ -1,3 +1,2 @@
-server:
-  port: 8101
-  port1: 8201
+config:
+  info:00011112222233333
